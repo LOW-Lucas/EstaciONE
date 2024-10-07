@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\bin\Debug\EstaciONE.exe.config
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.Form1.resources
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.Resources.resources
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.vbproj.GenerateResource.Cache
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\bin\Debug\EstaciONE.exe
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\bin\Debug\EstaciONE.pdb
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\bin\Debug\EstaciONE.xml
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.exe
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.xml
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.pdb
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.Form2.resources
+C:\Users\Dell\OneDrive - Etec Centro Paula Souza\Facul\6 Semestre\TCC\EstaciONE\EstaciONE\obj\Debug\EstaciONE.Form3.resources
